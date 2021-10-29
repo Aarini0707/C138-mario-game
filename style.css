@@ -1,0 +1,9 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid darkblue;
+}
