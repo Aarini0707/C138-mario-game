@@ -7,3 +7,21 @@
     float: right;
     border: 1px solid darkblue;
 }
+
+h4{
+    display: inline-block;
+    line-height: 2;
+    margin: 0px;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.instruction_image{
+    width: 45%;
+    display: inline-block;
+}
